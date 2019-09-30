@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\scham\documents\school\uic\cs425\project1\sonarimaging\sonarimaging\source.cpp(281): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\scham\documents\school\uic\cs425\project1\sonarimaging\sonarimaging\source.cpp(319): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\scham\documents\school\uic\cs425\project1\sonarimaging\sonarimaging\source.cpp(451): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\scham\documents\school\uic\cs425\project1\sonarimaging\sonarimaging\source.cpp(452): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\scham\documents\school\uic\cs425\project1\sonarimaging\sonarimaging\source.cpp(453): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\scham\documents\school\uic\cs425\project1\sonarimaging\sonarimaging\source.cpp(454): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\scham\documents\school\uic\cs425\project1\sonarimaging\sonarimaging\source.cpp(462): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\scham\documents\school\uic\cs425\project1\sonarimaging\sonarimaging\source.cpp(484): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\scham\documents\school\uic\cs425\project1\sonarimaging\sonarimaging\source.cpp(485): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SonarImaging.vcxproj -> C:\Users\Scham\Documents\School\UIC\CS425\Project1\SonarImaging\x64\Debug\SonarImaging.exe

@@ -1,0 +1,45 @@
+# Author
+
+Gregory Schamberger, netid - gscham2
+
+Made to fulfill requirements of CS425 - Computer Graphics I
+at University of Illinois at Chicago
+
+# SonarGraph
+
+SonarGraph is a c++/opengl program that takes in a text file
+of Sonar information and returns a colored graph that shows the 
+latitude and longitude of a boat using sonar, and the depth
+that the sonar device reports back.
+
+# Instructions
+
+Windows:
+    In order to use SonarGraph on Windows, have Visual Studio downloaded and
+    open SonarImaging.sln, which you'll find in the SonarImaging folder.
+
+    This will only use the default text file: R48.txt
+
+Linux:
+    Have glut dev downloaded on your linux machine, navigate to the folder
+    titled "UbuntuBuild", open a terminal and type make.
+
+    In the terminal type ./SonarGraph in order to use SonarGraph with
+    the default text file: R48.txt.
+
+    If you would like to use a different Sonar information text file,
+    type ./SonarGraph [textfile].
+
+    As an example of a separate textfile, I've included R62.txt.
+    To use that file, type ./SonarGraph R62.txt
+
+# Contributions
+
+In order to normalize the colors according to depth,
+I utilized code written by David H at Stackoverflow.
+Link: https://stackoverflow.com/questions/3018313/algorithm-to-convert-rgb-to-hsv-and-hsv-to-rgb-in-range-0-255-for-both
+
+Otherwise, I used the shell.c file provided by Dr. Bell in order to get opengl up and running.
+
+
+
