@@ -1,3 +1,5 @@
+// Gregory Schamberger, gscham2
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <iostream>
